@@ -1,3 +1,9 @@
+%REORGANIZEIMAGES  Reorganize images from ImageXpress into a folder
+%
+%  This script reorganizes the images from ImageXpress into individual
+%  folders. For each identified well, the code will create a subfolder with
+%  t
+
 clearvars
 clc
 
